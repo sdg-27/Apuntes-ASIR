@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 GITHUB_USER="sdg-27"
 REPO_NAME="Apuntes-ASIR"
-BRANCH="master"
+BRANCH="main"
 
 # Cargar token desde archivo externo
 source /home/sergio/.config/Apuntes-ASIR.env
